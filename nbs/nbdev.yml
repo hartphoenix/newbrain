@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "newbrain"
+  site-url: "https://hartphoenix.github.io/newbrain"
+  description: "a test notebook for fractal U LLM class"
+  repo-branch: main
+  repo-url: "https://github.com/hartphoenix/newbrain"
